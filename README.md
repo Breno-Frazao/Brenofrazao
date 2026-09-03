@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="![Uploading pokemon-mew-pixel-doodle.gif…]()" width="300">
+  <img src="./Pokemon.gif" width="400">
 </p>
