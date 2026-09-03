@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./Pokemon.gif" width="400">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300">
 </p>
